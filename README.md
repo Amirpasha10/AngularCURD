@@ -13,10 +13,3 @@ CONSTRAINT [PK_Employee] PRIMARY KEY CLUSTERED
   
 GO  
 
-I am glad to have been a part of RB. In which, I got a chance to work with you and team, and learn many things. I appreciate the chance to work on this  project. Right now I’d like to work in another project which has a lot of scope with my skills set. 
-
-As my interest lies in other development, I’d like to work in the such project where there is more scope for skills development. This would not only give me self-satisfaction but also help me to build a very strong career. It would be a better use of my skills.
-
-I kindly request you to consider my request and do the needful at the earliest.
-
- Thank you very much. 
